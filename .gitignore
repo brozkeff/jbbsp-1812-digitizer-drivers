@@ -1,0 +1,18 @@
+# Copyright (c) 2026 Martin brozkeff Malec
+# SPDX-License-Identifier: EUPL-1.2
+# Licensed under EUPL v. 1.2 only.
+# Acquired material, OCR, and private analysis stay local; publish concise attributed findings.
+/.artifacts/
+/tmp/
+/.venv/
+/.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/.coverage
+/htmlcov/
+# Sessions are reviewed before publication; small original fixtures may be committed.
+/sessions/
+/dist/
+/build/
+*.egg-info/
