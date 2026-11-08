@@ -13,6 +13,7 @@ tentative; precise calibration is unverified. See the
 
 | Need | Read |
 |---|---|
+| OpenAlt 2026 lightning talk and live demo | [Slides and laptop setup](docs/openalt-2026/README.md) |
 | Evidence and completed checks | [Observation history](docs/observations/2026-10-22-validation.md) |
 | Equipment and unknowns | [Hardware inventory](docs/hardware/tablet.md) |
 | First communication test | [Bring-up guide](docs/experiments/bringup.md) |
